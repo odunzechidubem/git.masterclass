@@ -1,6 +1,6 @@
-# git.masterclass
+# version control
 
-VERSION CONTROL - is a tech pattern used to create record changes made on files especially source codes of a program or project.
+is a tech pattern used to create record changes made on files especially source codes of a program or project.
 This is to enables the person or people involved in such project to track the changes made to it and easily restore a particular point. This also helps in collaborative work where a team is working on a particular project.
 Version control is more like a back-up of an ongoing project.
 
